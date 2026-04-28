@@ -131,6 +131,7 @@ payload:
   - ipip.net
   - my.ipinfo.app
   - ip.hetzner.com
+  - ip.liquidweb.com
   - ip.mail.ru
   - ip.nic.ru
   - ip.tyk.nu
@@ -142,3 +143,6 @@ payload:
   - ipw.cn
   - whois.pconline.com.cn
   - myip.la
+  - whatismyip.akamai.com
+  - +.dp-ip.com
+  - +.trackip.net
