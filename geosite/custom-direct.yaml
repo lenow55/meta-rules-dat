@@ -2,5 +2,5 @@ payload:
   - +.solodcdn.com
   - +.lanit.ru
   - +.pytorch.org
-  # - +.doramalab.live
-  # - +.doramalab.name
+  - +.doramalab.live
+  - +.doramalab.name
