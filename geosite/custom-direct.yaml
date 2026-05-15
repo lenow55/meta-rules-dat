@@ -1,7 +1,9 @@
 payload:
-  - +.solodcdn.com
+  # для работы
   - +.lanit.ru
   - +.pytorch.org
+  # для дорам
+  - +.solodcdn.com
   - +.doramalab.live
   - +.doramalab.name
   - +.showvid.ws
@@ -12,3 +14,5 @@ payload:
   - +.ortified.ws
   - +.myangular.life
   - +.kodikplayer.com
+  # для школы
+  - +gounn.ru
